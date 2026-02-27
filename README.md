@@ -22,4 +22,4 @@ A aplicação foi organizada separando as responsabilidades de cada camada:
 
 1. Clone o repositório para sua máquina:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/API-Monolitico_CPXXXXXX.git](https://github.com/SEU_USUARIO/API-Monolitico_CPXXXXXX.git)
+   git clone [https://github.com/Thaynan-souza/API-Monolitico_CP3032086.git]
